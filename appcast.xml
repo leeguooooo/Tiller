@@ -4,6 +4,16 @@
     <title>Tiller</title>
     <link>https://github.com/sorrycc/tiller/releases</link>
     <item>
+      <title>0.2.0</title>
+      <pubDate>Mon, 12 Oct 2026 04:04:41 GMT</pubDate>
+      <sparkle:version>109</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/sorrycc/Tiller/releases/tag/v0.2.0</sparkle:fullReleaseNotesLink>
+      <description>&lt;ul&gt;&lt;li&gt;Background tabs left unused for 30 minutes unload to free their memory, and sooner when the Mac runs low on memory. An unloaded tab keeps its place, shows a dimmed title and icon, and loads again when selected. Tabs playing media, using the camera or microphone, or asking before you leave stay loaded. Settings → General turns it off or sets the delay.&lt;/li&gt;&lt;li&gt;Agents and the &lt;code&gt;tiller&lt;/code&gt; tool no longer load every tab restored at launch. They load only the tab they act on, and &lt;code&gt;list_tabs&lt;/code&gt; says whether each tab is loaded. Tab ids stay the same while a tab is unloaded.&lt;/li&gt;&lt;li&gt;Fixed a crash in the agent chat with a mouse attached, when a conversation grew to about one screen tall.&lt;/li&gt;&lt;li&gt;Back and forward mouse side buttons now navigate the selected tab, including Logitech mice with standard button assignments.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/sorrycc/Tiller/releases/download/v0.2.0/Tiller-0.2.0.zip" type="application/octet-stream" sparkle:edSignature="kyYcOnwjAsIL4tcnH0Xen5oc8GCSiRuImuazjQFpK9Iftp/IYAxY2mo+DpCwo8keHxWCZ5dtrXdo59NKH5YHCw==" length="130536938" />
+    </item>
+    <item>
       <title>0.1.5</title>
       <pubDate>Sun, 11 Oct 2026 01:59:38 GMT</pubDate>
       <sparkle:version>102</sparkle:version>
