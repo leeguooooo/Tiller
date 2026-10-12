@@ -4,6 +4,16 @@
     <title>Tiller</title>
     <link>https://github.com/sorrycc/tiller/releases</link>
     <item>
+      <title>0.2.1</title>
+      <pubDate>Mon, 12 Oct 2026 06:32:51 GMT</pubDate>
+      <sparkle:version>112</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/sorrycc/Tiller/releases/tag/v0.2.1</sparkle:fullReleaseNotesLink>
+      <description>&lt;ul&gt;&lt;li&gt;The agent chat fades out under its header and above the message field as it scrolls, instead of cutting a line in half at the edge.&lt;/li&gt;&lt;li&gt;The start page's tiles line up from the left when there are fewer than four, rather than spreading out with gaps between them.&lt;/li&gt;&lt;li&gt;Address suggestions line up their icons and titles with the address field's icon and text.&lt;/li&gt;&lt;li&gt;Small polish: Copy and download buttons light up under the mouse, a tab's close button and the skill picker fade in, steps fold away with a fade when a turn ends, queued messages show a press, the find bar's close button has a round plate, chat history dates are easier to read, and Remote debugging moves to the end of Settings → General.&lt;/li&gt;&lt;li&gt;Chats in background tabs or a hidden panel no longer redraw streamed text 20 times a second; they catch up when shown.&lt;/li&gt;&lt;li&gt;Scrolling a long tab sidebar only moves the tabs in view, and resizing the window lays out the toolbar once, when the drag ends.&lt;/li&gt;&lt;li&gt;The Downloads list no longer updates while closed, and the first message to an agent no longer freezes the window while a login shell looks for its command.&lt;/li&gt;&lt;li&gt;Importing a long Chrome history no longer holds up the address bar's suggestions and the start page until it finishes.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/sorrycc/Tiller/releases/download/v0.2.1/Tiller-0.2.1.zip" type="application/octet-stream" sparkle:edSignature="Ho6b5MLGt5WNbbjcwBQggo/6IUw2aCl/H7KjfR5cIikSgPHnbPrngDrMNQdRt91PPjeSaMs8i5zRRcnDAi9mAw==" length="130541155" />
+    </item>
+    <item>
       <title>0.2.0</title>
       <pubDate>Mon, 12 Oct 2026 04:04:41 GMT</pubDate>
       <sparkle:version>109</sparkle:version>
