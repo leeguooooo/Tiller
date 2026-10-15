@@ -4,6 +4,16 @@
     <title>Tiller</title>
     <link>https://github.com/sorrycc/tiller/releases</link>
     <item>
+      <title>0.3.2</title>
+      <pubDate>Thu, 15 Oct 2026 09:23:48 GMT</pubDate>
+      <sparkle:version>143</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/sorrycc/Tiller/releases/tag/v0.3.2</sparkle:fullReleaseNotesLink>
+      <description>&lt;ul&gt;&lt;li&gt;Themes: Settings &amp;gt; General &amp;gt; Theme gives Tiller Claude's colors, Anthropic's ivory or warm near-black with Claude's orange, or Qoder's Forest greens, each light or dark as the appearance is. The window, sidebar, toolbar, agent panel and start page take the theme's colors and accent; Tiller's own theme keeps the system's look.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/sorrycc/Tiller/releases/download/v0.3.2/Tiller-0.3.2.zip" type="application/octet-stream" sparkle:edSignature="0l3+KXZFpYI1I2iV4NO2bPd+YCYtsytDJjse3Orq7uVhtsxrrXQJw5na2rxQQqE/u55bpwV8ihLjNegN9+jHAw==" length="130845592" />
+    </item>
+    <item>
       <title>0.3.0</title>
       <pubDate>Wed, 14 Oct 2026 13:30:09 GMT</pubDate>
       <sparkle:version>133</sparkle:version>
